@@ -63,7 +63,7 @@ az webapp create \
 
 ### 4. Deploy Application
 
-The legacy ASP.NET application was deployed to Azure App Service using publishing tools (Visual Studio / deployment pipeline).
+The legacy ASP.NET application was deployed to Azure App Service using a zip file obtained from the published site.
 
 ---
 
@@ -95,8 +95,6 @@ The application configuration was updated to point to Azure SQL Database.
 ---
 
 ## 📸 Screenshots
-
-> Add sanitized screenshots here (no secrets, no passwords, no sensitive data)
 
 ### Resource Group
 
